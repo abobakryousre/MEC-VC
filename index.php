@@ -2,7 +2,11 @@
 echo "Welcome";
 echo "<br>";
 
-$name = "abobakr";
+$name = "name";
+
+$age = 25;
+
+$role = "admin";
 
 ?>
 
