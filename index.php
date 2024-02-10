@@ -2,6 +2,8 @@
 echo "Welcome";
 echo "<br>";
 
+$name = "abobakr";
+
 ?>
 
 <!DOCTYPE html>
