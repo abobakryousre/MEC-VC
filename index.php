@@ -9,6 +9,11 @@ $age = 25;
 $role = "admin";
 
 echo "test";
+
+function main()
+{
+    echo "main function";
+}
 ?>
 
 <!DOCTYPE html>
