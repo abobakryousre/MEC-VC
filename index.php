@@ -24,6 +24,13 @@ function feat2()
     echo "i am feat 1";
 }
 
+
+
+function test()
+{
+    echo "i am feat 1";
+}
+
 ?>
 
 <!DOCTYPE html>
