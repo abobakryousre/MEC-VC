@@ -9,6 +9,12 @@ $age = 25;
 $role = "admin";
 
 echo "test";
+
+
+function feat1()
+{
+    echo "i am feat 1";
+}
 ?>
 
 <!DOCTYPE html>
