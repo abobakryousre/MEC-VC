@@ -8,6 +8,7 @@ $age = 25;
 
 $role = "admin";
 
+echo "test";
 ?>
 
 <!DOCTYPE html>
