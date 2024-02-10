@@ -13,6 +13,10 @@ echo "test";
 function main()
 {
     echo "main function";
+
+function feat1()
+{
+    echo "i am feat 1";
 }
 ?>
 
