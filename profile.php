@@ -15,3 +15,4 @@ $role = "user";
 echo "Hello {$name}";
 
 echo "your age is {$age}";
+echo "7amada";

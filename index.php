@@ -8,12 +8,12 @@ $age = 25;
 
 $role = "admin";
 
-echo "test";
+echo "test2";
 
 function main()
 {
     echo "main function";
-
+}
 function feat1()
 {
     echo "i am feat 1";
