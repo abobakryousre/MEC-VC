@@ -18,6 +18,12 @@ function feat1()
 {
     echo "i am feat 1";
 }
+
+function feat2()
+{
+    echo "i am feat 1";
+}
+
 ?>
 
 <!DOCTYPE html>
